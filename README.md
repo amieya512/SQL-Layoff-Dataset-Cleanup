@@ -5,7 +5,7 @@ This project involves cleaning a layoff dataset using SQL techniques. The goal w
 
 ## Dataset
 - **File:** layoffs.csv
-- **Source:** Layoff data provided during Alex The Analyst's tutorial
+- **Source:** Layoff data provided from Alex The Analyst's GitHub
 
 ## Objectives
 - Identify and remove duplicates
