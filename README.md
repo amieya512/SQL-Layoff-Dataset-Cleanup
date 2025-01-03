@@ -1,4 +1,4 @@
-# SQL Data Cleaning Project
+# SQL Layoff Dataset Cleanup
 
 ## Project Overview
 This project involves cleaning a layoff dataset using SQL techniques. The goal was to prepare the data for analysis by handling issues such as missing values, duplicates, and standardizing data formats.
